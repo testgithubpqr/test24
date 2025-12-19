@@ -1,5 +1,7 @@
+package test24;
+
 class test{
-	public staticc void main(String args[]) {
+	public static void main(String args[]) {
 		System.out.println("first");
 	}
 }
